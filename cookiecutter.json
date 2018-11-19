@@ -1,0 +1,8 @@
+{
+    "package_name": "Basic Python Package",
+    "package_slug":"{{cookiecutter.package_name.lower().replace(' ', '_')}}",
+    "package_description": "",
+    "author": "Carlos Losada",
+    "email" : "carlos@example.com",
+    "version": "0.0.1",
+}
